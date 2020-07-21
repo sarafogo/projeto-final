@@ -1,0 +1,62 @@
+body { 
+    color: #545b73;
+    background-color: #fedde4;
+    letter-spacing: 0.5px;
+
+}
+
+.navbar {
+    background-color: #4C526B;
+    display: flex;
+    justify-content: center;
+
+}
+
+.navbar-text {
+    color: #f2e4e8;
+    
+
+}
+
+div {
+    margin: 45px;
+    
+}
+
+
+.first-section mark {
+    background-color: #c22727;
+    color: #f2e4e8;
+}
+
+.diferenca {
+    text-align: end;
+
+}
+.diferenca mark {
+    color: #fedde4;
+    background-color: #f85b7d;
+}
+
+.second-section {
+    margin: 65px;
+    text-align: center;
+    color: #22243c;
+}
+
+
+
+
+
+.mulheres mark {
+    background-color: #FFAE03;
+
+
+}
+
+
+footer {
+    background-color: #535A76;
+    color: #e79755;
+    text-align: center;
+}
